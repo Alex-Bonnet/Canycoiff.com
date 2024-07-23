@@ -1,0 +1,85 @@
+baseURL       = "http://www.canycoiff.com/"
+title         = "inukshuk.io | Artificial Intelligence, Human wits"
+theme         = "roxo-hugo"
+summarylength = 25
+googleAnalytics = "G-KJFV7R1YV4"
+
+# sitemap
+[sitemap]
+  changeFreq = ''
+  filename = 'sitemap.xml'
+  priority = -1
+
+DefaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    title = "(en) canywebsite"
+    languageName = "English"
+    weight = 2
+    contentDir = "/content/en/"
+
+  [languages.fr]
+    title = "(fr) canywebsite"
+    languageName ="Français"
+    weight = 1
+    contentDir = "/content/fr/"
+
+
+  [languages.en.menu]
+
+   # Navbar Menus
+   [[languages.en.menu.nav]]
+    name    = "Fr"
+    url     = "fr/"
+    weight  = 1
+   [[languages.en.menu.nav]]
+    name    = "Home"
+    url     = "/"
+    weight  = 2
+   [[languages.en.menu.nav]]
+    name    = "About"
+    url     = "about/"
+    weight  = 3
+   [[languages.en.menu.nav]]
+    name    = "Portfolio"
+    url     = "portfolio/"
+    weight  = 4
+   [[languages.en.menu.nav]]
+    name    = "Blog"
+    url     = "blog/"
+    weight  = 5
+   [[languages.en.menu.nav]]
+    name    = "Get in touch"
+    url     = "contact/"
+    weight  = 6
+
+
+  [languages.fr.menu]
+
+   # Navbar Menus
+   [[languages.fr.menu.nav]]
+    name    = "En"
+    url     = "en/"
+    weight  = 1
+   [[languages.fr.menu.nav]]
+    name    = "Accueil"
+    url     = "fr/"
+    weight  = 2
+   [[languages.fr.menu.nav]]
+    name    = "À propos"
+    url     = "fr/about/"
+    weight  = 3
+   [[languages.fr.menu.nav]]
+    name    = "Portfolio"
+    url     = "fr/portfolio/"
+    weight  = 4
+   [[languages.fr.menu.nav]]
+    name    = "Blog"
+    url     = "fr/blog/"
+    weight  = 5
+   [[languages.fr.menu.nav]]
+    name    = "Prenez contact"
+    url     = "fr/contact/"
+    weight  = 6
