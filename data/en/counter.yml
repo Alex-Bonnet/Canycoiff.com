@@ -1,0 +1,22 @@
+enable : true
+heading : "OUR RECENT ACHIEVEMENTS"
+counter_item: 
+  - title: "Happy Clients"
+    number: "20"
+
+  - title: "Projects released in Production"
+    number: "10"
+
+  - title: "Country visited for projects"
+    number: "10"
+
+  - title: "Client 2023-1: citizens covered by healthcare bills decisions"
+    number: "650 k."
+
+  - title: "Client 2023-2: insurance claims decisions"
+    number: "180 M."
+
+  - title: "Client 2023-3: training state grants decisions"
+    number: "100 M."
+  
+    

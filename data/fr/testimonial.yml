@@ -1,0 +1,9 @@
+enable  : true
+title   : "OPINION DE VRAIES PERSONNES"
+subtitle: "Ce que les clients disent sur nos services."
+testimonial_item :
+  - thumb : "images/testimonial/user-1.png"
+    name  : "JP"
+    company_position: "CTO, société de Services Financiers"
+    quote : > 
+            "Il y a 3 choses à savoir sur les experts de canywebsite : 1- ils tiennent parole, 2- ils tiennent parole, 3- ils tiennent parole."

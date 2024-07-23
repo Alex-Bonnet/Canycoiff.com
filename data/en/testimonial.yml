@@ -1,0 +1,10 @@
+enable  : true
+title   : "OPINION FROM REAL PEOPLE"
+subtitle: "What clients says about our services."
+testimonial_item :
+  - thumb : "images/testimonial/user-1.png"
+    name  : "JP"
+    company_position: "CTO, Financial Services company"
+    quote : > 
+            "There are 3 things to know about canywebsite experts :  1- they deliver, 2-they deliver 3-they deliver." 
+

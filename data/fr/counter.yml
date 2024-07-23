@@ -1,0 +1,20 @@
+enable : true
+heading : "nos réussites récentes"
+counter_item: 
+  - title: "Clients Satisfaits"
+    number: "20"
+
+  - title: "Projets publiés en production"
+    number: "10"
+
+  - title: "Pays visités pour des projets"
+    number: "10"
+
+  - title: "Client 2023-1: citoyens couverts par les décisions de factures de santé"
+    number: "650 k."
+
+  - title: "Client 2023-2: décisions de réclamations d'assurance"
+    number: "180 M."
+
+  - title: "Client 2023-3: décisions de subventions de formation de l'État"
+    number: "100 M."

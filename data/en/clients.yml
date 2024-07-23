@@ -1,0 +1,4 @@
+enable        : true
+title         : "Who trust our judgment"
+client_logos  : 
+  ["images/clients/ibm-logo.png", "images/clients/redhat-logo.png", "images/clients/airbus-logo.png", "images/clients/magellan-logo.png", "images/clients/axians-logo.png", "images/clients/sqli-logo.png", "images/clients/eurodecision-logo.png", "images/clients/docaposte-logo.png", "images/clients/infotel-logo.png", "images/clients/cegedim-logo.png"]
